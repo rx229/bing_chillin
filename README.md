@@ -1,1 +1,1 @@
-# bingchillin.github.io
+# Change the link but add the /?__theme=light
